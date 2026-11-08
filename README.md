@@ -108,7 +108,7 @@ Deployment process:
 
 ### Live Website
 
-**Netlify URL:** ADD_YOUR_NETLIFY_URL_HERE
+**Netlify URL:** https://spendwise-week7.netlify.app/
 
 Replace this placeholder with the actual published website URL after successful deployment.
 
